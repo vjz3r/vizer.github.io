@@ -1,5 +1,6 @@
 # build output
 dist/*
+!dist/robots.txt
 
 # generated types
 .astro/

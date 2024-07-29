@@ -1,9 +1,9 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
+<br>Hello World , I'm The Anh [a.k.a vizer]
+<br>I am currently a student at [Duy Tan University](https://duytan.edu.vn) majoring in Cybersecurity.
+<br>I play CTF [Capture The Flag](https://www.youtube.com/watch?v=8ev9ZX9J45A) competitions with team ISITDTU.
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+**ɪ ᴀᴍ ʜᴇʀᴇ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ -- ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ.**
+### Feel free to reach out to me via:
+> - Email: <code>viz3r@proton.me</code>
+> - Discord: <code>vjz3r</code>
